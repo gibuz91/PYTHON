@@ -1,3 +1,4 @@
+#SCRITTURA DI UN FILE
 from sys import argv
 
 script, filename = argv
